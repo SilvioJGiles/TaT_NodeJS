@@ -1,4 +1,4 @@
-// Autor: Silvio J. Giles - DNI 23325465
+// Autor: Silvio J. Giles
 // Comisión 25024
 // Preentrega de Proyecto - Curso NodeJS - Talento Tech
 
